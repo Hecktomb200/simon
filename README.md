@@ -1,3 +1,3 @@
-# simon-html
+# simon
 
-This deliverable demonstrates the use of basic HTML elements for structure, basic formatting, input, output, links, and drawing.
+This repository demonstrates the use of HTML in constructing a basic web-page and some key features behind HTML.
